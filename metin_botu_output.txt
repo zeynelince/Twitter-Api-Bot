@@ -1,0 +1,4 @@
+//bu dosya bot.py tarafından güncellenmketedir.
+//This file is updated by bot.py.
+
+, ..
